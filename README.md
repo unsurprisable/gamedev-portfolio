@@ -47,3 +47,7 @@ Like many other other developers, I have built up a LOT of unfinished/unpresenta
 > Although this project didn't end up going anywhere, it DID teach me a lot of valuable Data Structures & Algorithms concepts, as well as some advanced Unity concepts like Object Pooling for generating products on dozens of shelves simultaneously. I'd say this project was probably my most valuable resource for learning more advanced abstract programming concepts like Stacks, Queues, Dictionaries, registries, and more, since a lot of the features I implemented were just general, real-world design patterns that happened to be made for a virtual supermarket.
 
 > This one has its own [project repo](https://github.com/unsurprisable/untitled-retail-game) as well.
+
+---
+
+Last updated 2/9/2026
