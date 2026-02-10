@@ -4,6 +4,8 @@ Hello! This repository is a collection of all the source code for my major game 
 
 This `README` goes through each of the (3) categories of major projects I've worked on and provides some extra insight on some of those projects (not every file will have a description here).
 
+**"TRAILER" VIDEO COVERING MOST OF THE PROJECTS HERE:** [YouTube: Game Development Portfolio](https://youtu.be/iYOlj7gU6yc?si=q-gNFjxNFcSg2e3B)
+
 ## [1] Python Games - (these are probably the most complete ones)
 
 These projects were all developed in my free time while I was taking the AP CSP & AP CSA classes in high school. You can actually play/experience these very easily by going to my [CMU Games Repository](https://github.com/unsurprisable/cmu-cs-academy-games), where they are all available to play in-browser! The repo also includes source code for many of my other smaller games.
